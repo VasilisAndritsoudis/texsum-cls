@@ -10,6 +10,8 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+models/
+cnn_dailymail/
 sumpubmed/
 share/
 .idea/
