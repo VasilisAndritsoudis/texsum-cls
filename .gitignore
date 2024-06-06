@@ -10,16 +10,17 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-cnn_dailymail/cnn_dailymail_dataset
-cnn_dailymail/cnn_dailymail_bert/processed_data
-cnn_dailymail/cnn_dailymail_bert/best_model.pt
+cnn_dailymail/data
 
-cnn_dailymail/cnn_dailymail_rnn/processed_data
-cnn_dailymail/cnn_dailymail_rnn/best_model.pt
+cnn_dailymail/bert/processed_data
+cnn_dailymail/bert/best_model.pt
 
-sumpubmed/sumpubmed_dataset
-sumpubmed/sumpubmed_bert/processed_data
-sumpubmed/sumpubmed_bert/best_model.pt
+cnn_dailymail/rnn/processed_data
+cnn_dailymail/rnn/best_model.pt
+
+sumpubmed/data
+sumpubmed/bert/processed_data
+sumpubmed/bert/best_model.pt
 
 share/
 .idea/

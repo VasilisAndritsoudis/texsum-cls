@@ -11,8 +11,8 @@ num_neg_ex = 1
 pos_label = "1"
 neg_label = "0"
 
-cnn_dailymail_path = "/home/v/vasandven/texsum-cls/cnn_dailymail/cnn_dailymail_dataset"
-data_path = "/home/v/vasandven/texsum-cls/cnn_dailymail/cnn_dailymail_gpt2/processed_data"
+cnn_dailymail_path = "../data"
+data_path = "processed_data"
 
 def preprocess_df(df):
     data = []

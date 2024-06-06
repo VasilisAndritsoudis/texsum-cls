@@ -35,7 +35,7 @@ print(f"Number of training documents used:{train_docs_used}")
 print(f"Number of validation documents used:{val_docs_used}")
 print(f"Number of testing documents used:{test_docs_used}")
 
-data_path = '/home/v/vasandven/texsum-cls/cnn_dailymail/cnn_dailymail_gpt2/processed_data'
+data_path = 'processed_data'
 
 # Model Hyperparameters
 
